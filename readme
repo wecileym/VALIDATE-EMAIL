@@ -1,0 +1,2 @@
+O validador basicamente irá verificar se o campo onde foi inserido o \
+email está correto, caso não foi digitado um email ele emitirar um erro.
